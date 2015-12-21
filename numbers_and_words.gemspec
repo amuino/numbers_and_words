@@ -5,8 +5,8 @@
 # stub: numbers_and_words 0.10.4 ruby lib
 
 Gem::Specification.new do |s|
-  s.name = "numbers_and_words"
-  s.version = "0.10.4"
+  s.name = "numbers_and_words_amuino"
+  s.version = "0.10.4-1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.require_paths = ["lib"]
@@ -184,4 +184,3 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<jeweler>, [">= 0"])
   end
 end
-
